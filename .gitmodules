@@ -1,0 +1,7 @@
+[submodule "Dashboard-Front"]
+	path = Dashboard-Front
+	url = https://github.com/MateusRangel0/Dashboard-Front
+
+[submodule "Dashboard-API"]
+	path = Dashboard-API
+	url = https://github.com/MateusRangel0/Dashboard-API
